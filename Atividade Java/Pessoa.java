@@ -39,7 +39,7 @@ public class Pessoa {
     }
 
     public static void main(String[] args) {
-        Pessoa pessoa = new Pessoa("Pedro", "Barros", 13042005, "pedro.barros@gmail.com", "(81)9656-8646");
+        Pessoa pessoa = new Pessoa("Pedro", "Barros", 13042005, "pedro.barros@gmail.com", "(81)1234-5678");
         pessoa.exibirInformacoes();
     }
 }
